@@ -1,0 +1,12 @@
+
+
+
+trajectory separeted:
+	-point1
+		minimum actuation time
+		cycloidal accelleration profile law
+	-point2
+		start measure temperature
+		4 point and a stop beetween them to measure
+	-point1
+		minimum actuation time
