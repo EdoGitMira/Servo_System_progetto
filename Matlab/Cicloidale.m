@@ -1,4 +1,4 @@
-function [x,xp,xpp]=Cicloidale(t,T,S0,dS)
+function [x,xp,xpp]=Cicloidale(t,T,S0,dS,l1)
 %legge di moto Cicloidale (acc.costante)
 %
 % t tempo per cui calcolare la legge
