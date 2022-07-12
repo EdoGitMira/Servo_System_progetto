@@ -1,5 +1,4 @@
 function [x,xp,xpp]=tretratti(t,T,S0,dS,l1)
-%
 % legge di moto TreTratti (acc.costante)
 %
 % t tempo per cui calcolare la legge

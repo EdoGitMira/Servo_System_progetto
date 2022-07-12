@@ -1,6 +1,7 @@
 function [x,xp,xpp]=Cicloidale(t,T,S0,dS,l1)
 %legge di moto Cicloidale (acc.costante)
 %
+%
 % t tempo per cui calcolare la legge
 % T tempo di azionamento
 % S0 posizione iniziale
